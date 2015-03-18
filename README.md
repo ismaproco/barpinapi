@@ -34,6 +34,7 @@ Run the application
 node server.js
 ```
 
+#Examples to use the REST-API
 
 Full Restful API for the user management, is using the node-restful to build the service layer of the application, the following examples ilustrate the use of the API.
 
