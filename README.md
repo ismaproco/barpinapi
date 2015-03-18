@@ -1,5 +1,40 @@
 #BARPIN API
 
+Install the Application
+-----------------------
+
+To install the application you need the following dependencies in your system:
+
+- node
+- npm
+- mongo ( running local instance )
+
+Clone the repository:
+- https
+```
+https://github.com/ismaproco/barpinapi.git
+```
+- ssh
+```
+git@github.com:ismaproco/barpinapi.git
+```
+
+Go to the barpin folder:
+```
+cd barpinapi
+```
+
+Install dependencies
+```
+npm install
+```
+
+Run the application
+```
+node server.js
+```
+
+
 Full Restful API for the user management, is using the node-restful to build the service layer of the application, the following examples ilustrate the use of the API.
 
 Get All Users
