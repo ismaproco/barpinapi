@@ -1,8 +1,9 @@
 #BARPIN API
 
-REST EXAMPLES
+Full Restful API for the user management, is using the node-restful to build the service layer of the application, the following examples ilustrate the use of the API.
 
 Get All Users
+---------------
 
 GET /users/
 
