@@ -7,7 +7,7 @@ To install the application you need the following dependencies in your system:
 
 - node
 - npm
-- mongo ( running local instance )
+- mongo ( running local instance ) / or set the path for the external service in the conf.js file
 
 Clone the repository:
 - https
