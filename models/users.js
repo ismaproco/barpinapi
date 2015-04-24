@@ -14,6 +14,8 @@ var mongoose = restful.mongoose;
  	twitterAccount: String,
  	googleAccount: String,
  	facebookAccount: String
+  hotted: Array,
+  saved: Array
  });
 
 // return the users schema
