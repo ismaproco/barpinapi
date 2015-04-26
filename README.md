@@ -119,3 +119,8 @@ Content-Type: application/json
 Cache-Control: no-cache
 
 ```
+
+TODO
+----------------
+
+Create methods structure for the news Restful Services
