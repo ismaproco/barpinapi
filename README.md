@@ -123,4 +123,5 @@ Cache-Control: no-cache
 TODO
 ----------------
 
-Create methods structure for the news Restful Services
+- Create methods structure for the news Restful Services.
+- Create a model API to consume the Rest services using Jquery, and exposing those methods using a framework
