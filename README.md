@@ -125,3 +125,4 @@ TODO
 
 - Create methods structure for the news Restful Services.
 - Create a model API to consume the Rest services using Jquery, and exposing those methods using a framework
+- Install the docker for the React Platform: http://blog.carloscerrato.com/?p=83
